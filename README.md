@@ -15,7 +15,7 @@ The code included in this repository is used to create a README generator using 
 
 The Github repository can be found here: https://github.com/dscornaienchi/potential-enigma
 
-A walkthrough video can be found here: 
+A walkthrough video can be found here: https://drive.google.com/file/d/1oFSXGnywFtrBb-f_izmQlwfDuw3tYIsA/view?usp=sharing 
 
 
 ## Credits
