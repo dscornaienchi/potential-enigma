@@ -2,7 +2,7 @@
 
 ## Description
 
-The code included in this repository is used to create a README generator using Node.JS, so that any developer can quickly generate a ReadMe template. The bullets below outline the functionality of the command-line application
+The code included in this repository is used to create a README generator using Node.JS, so that any developer can quickly generate a ReadMe template. The bullets below outline the functionality of the command-line application when the user enters "node index.js"
 * When the user is prompted for information about their application repostiory, then a README.md is generated with the title of the project, as well as sections for the description, table of contents, installation, usage, license, contributing, tests, and questions 
 * When the project title is entered, it is logged as the title of the ReadMe
 * When a description, installation instructions, usage information, contribution guidelines, and test instructions are addedm this information is added to the sections of the README
